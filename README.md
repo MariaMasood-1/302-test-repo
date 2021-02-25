@@ -1,4 +1,3 @@
 # 302-test-repo
-body { ee
-    Arial: etc;
-}
+<span style="color:#fff; font-family: 'Georgia'; font-size: 7em;">INSPIRATION DAY</span>
+Hello
